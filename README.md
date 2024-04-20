@@ -1,2 +1,2 @@
 # axi_slave
-AXI4 slave implementation
+AXI5 slave implementation
