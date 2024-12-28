@@ -79,3 +79,11 @@ interface #(
     output ARREADY, RVALID, RID, RIDUNQ, RDATA, RTAG, RRESP, RLAST, RUSER, RPOISON, RTRACE, RLOOP, RCHUNKV, RCHUNKNUM, RCHUNKSTRB, RBUSY
     );
 endinterface // axi_rd_if
+//|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|//
+//|                                               |//
+//| 1. Project  :  axi_slave                      |//
+//| 2. Author   :  Etay Sela                      |//
+//| 3. Date     :  2024-12-28                     |//
+//| 4. Version  :  v0.1.0                         |//
+//|                                               |//
+//|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|//
