@@ -85,6 +85,6 @@ endinterface // axi_rd_if
 //| 1. Project  :  axi_slave                      |//
 //| 2. Author   :  Etay Sela                      |//
 //| 3. Date     :  2024-12-28                     |//
-//| 4. Version  :  v0.11.1                        |//
+//| 4. Version  :  v1.0.0                         |//
 //|                                               |//
 //|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|//
